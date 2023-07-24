@@ -6,5 +6,5 @@ This Repository contains my collection of certificates in my college period.
  👉 ISTRA Certificate <br />
  👉 Instagram Clone Certificate <br />
  👉 Introduction to programming in C by NPTEL <br />
- 👉 Web Development by Udemy <br />
+ 👉 Web Development by Udemy<br />
  👉 Build a Full Website using WordPress by Corsera
